@@ -1,0 +1,17 @@
+Requirements : - 
+
+dont change column name
+
+1. load table 30
+
+2. condition : - divide amount column 
+		min_amount - 0 - 10lac
+		max_amount - > 10lac
+max - 12 times 9
+min - 0
+
+3. From deductible remove commas like 2,500 to 2500
+
+4. For each symbol separte row should be generated. Split
+
+5. In table 2 on basis of terror code split into symbol number and symbol alphabates
